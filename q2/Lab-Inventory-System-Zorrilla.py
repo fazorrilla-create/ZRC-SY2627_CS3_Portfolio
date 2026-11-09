@@ -25,5 +25,3 @@ p.get_reading()
 t.get_reading()
 
 print("~~~ End of Lab Inventory System ~~~")
-
-my_sensor = Sensor()
